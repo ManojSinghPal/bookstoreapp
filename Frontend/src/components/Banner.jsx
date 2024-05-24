@@ -31,7 +31,7 @@ const Banner = () => {
             </label>
             {/* End banner input */}
           </div>
-          <button className="mt-6 btn btn-secondary">Secondary</button>
+          <button className="mt-6 btn btn-secondary">Get Started</button>
         </div>
         {/* end left side things */}
 
